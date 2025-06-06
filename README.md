@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roy Bruno</h1>
 
 <p align="center">
-  <video
-    src="code_ML.mp4"
-    autoplay
-    loop
-    muted
-    playsinline
-    width="500"
-  >
-    <!-- fallback in case video isn’t supported -->
-    <img src="code_ML.gif" alt="code Animation" width="500px" />
-  </video>
+  <img src="code_ML.gif" alt="code GIF" width="500px"/>
 </p>
 
 <h3 align="center">A passionate software engineer and aspiring machine learning engineer.</h3>
