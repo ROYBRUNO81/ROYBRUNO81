@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roy Bruno</h1>
 <p align="center">
-  <img src="code_ML.gif" alt="code GIF" width="200px"/>
+  <img src="code_ML.gif" alt="code GIF" width="500px"/>
 </p>
 <h3 align="center">A passionate software engineer and aspiring machine learning engineer.</h3>
 
