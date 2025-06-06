@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Roy Bruno</h1>
+
 <p align="center">
-  <img src="code_ML.gif" alt="code GIF" width="500px"/>
+  <video
+    src="code_ML.mp4"
+    autoplay
+    loop
+    muted
+    playsinline
+    width="500"
+  >
+    <!-- fallback in case video isn’t supported -->
+    <img src="code_ML.gif" alt="code Animation" width="500px" />
+  </video>
 </p>
+
 <h3 align="center">A passionate software engineer and aspiring machine learning engineer.</h3>
 
 - 🔭 I’m currently working on [A soccer prediction app](https://github.com/ROYBRUNO81/Soccer-match-prediction)
