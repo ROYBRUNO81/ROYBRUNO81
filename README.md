@@ -7,7 +7,7 @@
 <h3 align="center">A passionate software engineer and aspiring machine learning engineer.</h3>
 
 - 🎓 I’m a Computer Science student at the [University of Pennsylvania](https://www.upenn.edu/) with a concentration in machine learning  
-- 🔭 I’m currently working on [A soccer prediction app](https://github.com/ROYBRUNO81/Soccer-match-prediction)  
+- 🔭 I’m currently working on [A Student Course Planner App.](https://github.com/ROYBRUNO81/Student-Course-Planner)
 - 🌱 I’m currently learning **Machine learning with R**  
 - 👯 I’m looking to collaborate on **An e-commerce platform**  
 - 👨‍💻 All of my projects are available at [https://github.com/ROYBRUNO81](https://github.com/ROYBRUNO81)  
