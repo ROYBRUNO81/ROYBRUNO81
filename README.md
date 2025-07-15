@@ -50,4 +50,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/roy_bruno"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="roy_bruno" /></a></p><br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROYBRUNO81&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROYBRUNO81&_progress=true)
