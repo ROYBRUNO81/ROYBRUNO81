@@ -6,9 +6,7 @@
 
 <h3 align="center">A passionate software engineer and aspiring machine learning engineer.</h3>
 
-- 🎓 I’m a Computer Science student at the [University of Pennsylvania](https://www.upenn.edu/) with a concentration in machine learning  
-- 🔭 I’m currently working on [a Student Semester Planner App.](https://github.com/ROYBRUNO81/SmartPath)
-- 🌱 I’m currently learning **Machine learning with R**  
+- 🎓 I’m a Computer Science student (B.S.E & M.S.E) at the [University of Pennsylvania](https://www.upenn.edu/) with a concentration in AI
 - 👯 I’m looking to collaborate on **An e-commerce platform**  
 - 👨‍💻 All of my projects are available at [https://github.com/ROYBRUNO81](https://github.com/ROYBRUNO81)  
 - 💬 Ask me about **Python, Java, R, SwiftUI**  
