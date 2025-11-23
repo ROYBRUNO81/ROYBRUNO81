@@ -9,7 +9,7 @@
 - 🎓 I’m a Computer Science student (B.S.E & M.S.E) at the [University of Pennsylvania](https://www.upenn.edu/) with a concentration in AI
 - 👯 I’m looking to collaborate on **An e-commerce platform**  
 - 👨‍💻 All of my projects are available at [https://github.com/ROYBRUNO81](https://github.com/ROYBRUNO81)  
-- 💬 Ask me about **Python, Java, R, SwiftUI**  
+- 💬 Ask me about **Python, Java, JavaScript, R, SwiftUI**  
 - 📫 How to reach me **brunombw@seas.upenn.edu**  
 - ⚡ Fun fact 1: I wrote a Computer Science pamphlet, including answers to past questions, and complete tutorial notes for C programming and SQL—to prep students in Cameroon for the GCE  
 - ⚡ Fun fact 2: I’m the founder of YouthTechLab, which host Tech bootcamps for secondary and high school students in Cameroon. 
@@ -48,4 +48,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/roy_bruno"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="roy_bruno" /></a></p><br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROYBRUNO81&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROYBRUNO81)
